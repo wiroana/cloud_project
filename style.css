@@ -1,0 +1,13 @@
+:root{
+  --bg:#f6f3ee;
+  --ink:#1b1b1b;
+  --muted:#8b8b8b;
+  --pill:#e9e4dc;
+  --pill-active:#1b1b1b;
+  --pill-active-ink:#fff;
+  --card:#ffffff;
+  --shadow:0 10px 30px rgba(0,0,0,.06);
+  --radius:16px;
+  --maxw:1200px;
+}
+/* ต่อด้วย CSS ที่เหลือ */
